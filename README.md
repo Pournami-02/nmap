@@ -5,4 +5,5 @@
 
 4. 2.Open Ports
 5. command used: nmap -sS 192.168.1.0/24
-6. 
+6. ![Screenshot 2025-05-31 104614](https://github.com/user-attachments/assets/1fb08bea-9635-4602-83cb-b40c3a55f474)
+
